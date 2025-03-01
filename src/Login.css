@@ -17,7 +17,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: lightblue;
+    background-color: antiquewhite;
     padding: 50px;
     width: 200px;
     height: 200px;
@@ -38,6 +38,15 @@
     align-items: center;
     text-align: center;
     
+}
+label{
+    display: inline;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    background-color: white;
 }
 h1{
     margin-left: 500px;
