@@ -25,7 +25,7 @@ const Navbar=()=>
     </div>
     
     
-    <h1> wELCOME TO YUGA APP</h1>
+    <h1> WELCOME TO YUGA APP</h1>
 
   </nav>
 );

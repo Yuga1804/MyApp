@@ -17,7 +17,7 @@
 .hi{
     width:100PX;
     background-color:white;
-    color:black;
+    color:red;
     align-items:center;
      text-align: center;
 }
@@ -31,9 +31,10 @@
     
 }
 h1{
-    margin-left: 550px;
-    margin-top: 200px;
+    margin-left: 5px;
+    margin-top: 2px;
     display:flex;
+    
     
 }
 .hello{
