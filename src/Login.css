@@ -1,10 +1,13 @@
 .parent{
-    align-items:center;
+  /*  align-items:center;
     display:grid;
-    justify-content: space-between;
+   /* justify-content: space-between;*/
     margin-top: 180px;
     flex-direction: column;
     place-items: center;
+    height:100vh;
+    background-color: aliceblue;
+
     
 
 }
@@ -30,7 +33,7 @@
     align-items:center;
      text-align: center;
 }
-.parent{
+/*.parent{
     width: 100px;
     display:flx;
     margin-left: 100px;
@@ -38,7 +41,7 @@
     align-items: center;
     text-align: center;
     
-}
+}*/
 label{
     display: inline;
     display: flex;
