@@ -15,13 +15,13 @@ const Navbar=()=>
       
       </div>
     <div className="root2">
-      <p>contact</p>
+      <p>CONTACT</p>
     </div>
     <div className="root3">
-      <p>about</p>
+      <p>ABOUT</p>
     </div>
     <div className="root4">
-      <button>Login</button>
+      <button>LOGIN</button>
     </div>
     
     
