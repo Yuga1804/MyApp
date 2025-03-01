@@ -18,12 +18,8 @@
    
    
   }
-  .Homepage{
-    display: flex;
-    justify-content: space-between;
-    text-align: left;
-    border: 10%;
-  }
+  
+  
   .parent{
     display: flex;
     justify-content: space-between;
