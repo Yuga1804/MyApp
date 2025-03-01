@@ -3,7 +3,7 @@
     display:flex;
     justify-content: space-between;
     
-    
+
 }
 
 
@@ -11,13 +11,13 @@
 .child
 {
     display: flex;
-    color:blueviolet;
+    color:black;
     
 }
 .hi{
     width:100PX;
     background-color:black;
-    color:blue;
+    color:black;
     align-items:center;
      text-align: center;
 }
@@ -34,7 +34,7 @@ h1{
     margin-left: 550px;
     margin-top: 200px;
     display:flex;
-    background-color: aquamarine;
+    
 }
 .hello{
     align-items: center;

@@ -12,9 +12,7 @@ const Navbar=()=>
     <img src={Logo}alt=""/>
    
     <div className="parent">
-      <div className="root">
-        <p>home</p>
-        </div>
+      
       </div>
     <div className="root2">
       <p>contact</p>
@@ -27,7 +25,7 @@ const Navbar=()=>
     </div>
     
     
-    <h1> Welcome To Yuga App</h1>
+    <h1> wELCOME TO YUGA APP</h1>
 
   </nav>
 );
